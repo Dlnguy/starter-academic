@@ -1,8 +1,8 @@
 ---
-abstract: 
+abstract: This is an abstract
 authors:
-- Author 1
-- Author 2
+- Author Don  
+- Author Nguyen
 date: "2020-04-29T00:00:00-04:00"
 doi: ""
 featured: true
