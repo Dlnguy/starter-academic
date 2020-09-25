@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Neuroscience
+    institution: McGill University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: M.H.Sc. in Audiology
+    institution: University of Ottawa
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Physiology
+    institution: McGill University
     year: 2008
 
 # Social/Academic Networking
